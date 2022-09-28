@@ -66,7 +66,10 @@ namespace DemoProject.Data
                     Status="Accepted",
                     Energy=45,
                     Prod_Id=1,
-                    Cons_Id=2
+                    Cons_Id=2,
+                    Prod_Name="Akshay",
+                    Cons_Name="Anand",
+                    Request_Cons_Name="Arjun"
                 });
 
                 dbContext.Wastes.Add(new Waste
@@ -79,7 +82,10 @@ namespace DemoProject.Data
                     Status = "Rejected",
                     Energy = 69,
                     Prod_Id = 1,
-                    Cons_Id = 2
+                    Cons_Id = 2,
+                    Prod_Name = "Aditya",
+                    Cons_Name = "Krishn",
+                    Request_Cons_Name = "Shaswat"
                 });
 
                 dbContext.SaveChanges();

@@ -36,5 +36,14 @@ namespace DemoProject.Data.Entities
         public int Request_Cons_Id { get; set; }
 
         public int Cons_Id { get; set; }
+
+        [StringLength(100)]
+        public string Prod_Name { get; set; }
+
+        [StringLength(100)]
+        public string Request_Cons_Name { get; set; }
+
+        [StringLength(100)]
+        public string Cons_Name { get; set; }
     }
 }

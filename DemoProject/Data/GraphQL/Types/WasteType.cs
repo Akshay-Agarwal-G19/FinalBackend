@@ -21,6 +21,9 @@ namespace DemoProject.Data.GraphQL.Types
             Field(t => t.Energy);
             Field(t => t.Prod_Id);
             Field(t => t.Cons_Id);
+            Field(t => t.Prod_Name);
+            Field(t => t.Cons_Name);
+            Field(t => t.Request_Cons_Name);
         }
     }
 }

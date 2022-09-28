@@ -21,6 +21,9 @@ namespace DemoProject.Data.GraphQL.Types
             Field<IntGraphType>("Cons_Id");
             Field<IntGraphType>("Request_Cons_Id");
             Field<IntGraphType>("Waste_Id");
+            Field<StringGraphType>("Prod_Name");
+            Field<StringGraphType>("Cons_Name");
+            Field<StringGraphType>("Request_Cons_Name");
         }
     }
 }

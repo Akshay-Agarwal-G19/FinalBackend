@@ -1,0 +1,270 @@
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.exe
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.deps.json
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.runtimeconfig.json
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.runtimeconfig.dev.json
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.pdb
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.csproj.AssemblyReference.cache
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.AssemblyInfoInputs.cache
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.AssemblyInfo.cs
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\staticwebassets\DemoProject.StaticWebAssets.Manifest.cache
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\staticwebassets\DemoProject.StaticWebAssets.xml
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\DemoProject.styles.css
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.RazorTargetAssemblyInfo.cache
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.csproj.CopyComplete
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.pdb
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.genruntimeconfig.cache
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL-Parser.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.DataLoader.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.MemoryCache.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.MicrosoftDI.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.NewtonsoftJson.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Authorization.AspNetCore.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Core.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.AspNetCore.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.AspNetCore.NewtonsoftJson.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.AspNetCore.SystemTextJson.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.Subscriptions.Abstractions.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.Subscriptions.WebSockets.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.Altair.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.GraphiQL.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.Playground.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.Voyager.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.SystemReactive.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.SystemTextJson.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Reactive.Core.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Threading.Tasks.Dataflow.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\Akshay.Agarwal\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.exe
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.deps.json
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.runtimeconfig.json
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.runtimeconfig.dev.json
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.pdb
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL-Parser.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.DataLoader.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.MemoryCache.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.MicrosoftDI.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.NewtonsoftJson.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Authorization.AspNetCore.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Core.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.AspNetCore.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.AspNetCore.NewtonsoftJson.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.AspNetCore.SystemTextJson.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.Subscriptions.Abstractions.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.Subscriptions.WebSockets.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.Altair.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.GraphiQL.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.Playground.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.Voyager.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.SystemReactive.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.SystemTextJson.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Reactive.Core.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Threading.Tasks.Dataflow.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.AssemblyInfoInputs.cache
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.AssemblyInfo.cs
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\staticwebassets\DemoProject.StaticWebAssets.Manifest.cache
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\staticwebassets\DemoProject.StaticWebAssets.xml
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\DemoProject.styles.css
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.RazorTargetAssemblyInfo.cache
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.csproj.CopyComplete
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.dll
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.pdb
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.genruntimeconfig.cache
+C:\Users\Anand.Bhalotia\source\repos\DemoProject\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.csproj.AssemblyReference.cache
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.exe
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.deps.json
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.runtimeconfig.json
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.runtimeconfig.dev.json
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\DemoProject.pdb
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL-Parser.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.DataLoader.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.MemoryCache.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.MicrosoftDI.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.NewtonsoftJson.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Authorization.AspNetCore.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Core.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.AspNetCore.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.AspNetCore.NewtonsoftJson.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.AspNetCore.SystemTextJson.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.Subscriptions.Abstractions.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.Subscriptions.WebSockets.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.Altair.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.GraphiQL.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.Playground.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.Voyager.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.SystemReactive.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\GraphQL.SystemTextJson.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\System.Reactive.Core.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\System.Threading.Tasks.Dataflow.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.csproj.AssemblyReference.cache
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.AssemblyInfoInputs.cache
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.AssemblyInfo.cs
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\obj\Debug\netcoreapp3.1\staticwebassets\DemoProject.StaticWebAssets.Manifest.cache
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\obj\Debug\netcoreapp3.1\staticwebassets\DemoProject.StaticWebAssets.xml
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\DemoProject.styles.css
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.RazorTargetAssemblyInfo.cache
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.csproj.CopyComplete
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.dll
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.pdb
+C:\Users\Akshay.Agarwal\Downloads\Backend-main (1)\Backend-main\DemoProject\obj\Debug\netcoreapp3.1\DemoProject.genruntimeconfig.cache

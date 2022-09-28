@@ -1,0 +1,91 @@
+﻿using DemoProject.Data.GraphQL.Types;
+using DemoProject.Repository;
+using GraphQL;
+using GraphQL.Types;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace DemoProject.Data.GraphQL
+{
+    public class DemoProjectQuery : ObjectGraphType
+    {
+        public DemoProjectQuery(WasteUserRepo wasteuserrepo, AdminRepo adminrepo, WasteRepo wasterepo)
+        {
+            Field<ListGraphType<WasteUserType>>(
+                "wasteusers",
+                resolve: context => wasteuserrepo.GetWasteUser()
+                );
+
+            Field<ListGraphType<WasteUserType>>(
+               "wasteuserbyid",
+               arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Id" }),
+               resolve: context =>
+               {
+                   var Id = context.GetArgument<int>("Id");
+                   return wasteuserrepo.GetWasteUserbyid(Id);
+               }
+              );
+
+            
+
+
+            Field<ListGraphType<AdminType>>(
+                    "admins",
+                    resolve: context => adminrepo.GetEmployees()
+                    );
+
+            Field<ListGraphType<WasteType>>(
+               "wastes",
+               resolve: context => wasterepo.GetWaste()
+               );
+
+            Field<ListGraphType<WasteType>>(
+              "wastebyid",
+              arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Waste_Id" }),
+              resolve: context =>
+              {
+                  var Waste_Id = context.GetArgument<int>("Waste_Id");
+                  return wasterepo.GetWastebyid(Waste_Id);
+              }
+             );
+
+
+            Field<ListGraphType<WasteType>>(
+              "wastebyprodid",
+              arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Prod_Id" }),
+              resolve: context =>
+              {
+                  var Prod_Id = context.GetArgument<int>("Prod_Id");
+                  return wasterepo.GetWastebyprodid(Prod_Id);
+              }
+             );
+
+
+            Field<ListGraphType<WasteType>>(
+              "wastebyreqconsid",
+              arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Request_Cons_Id" }),
+              resolve: context =>
+              {
+                  var Request_Cons_Id = context.GetArgument<int>("Request_Cons_Id");
+                  return wasterepo.GetWastebyreqconsid(Request_Cons_Id);
+              }
+             );
+
+            Field<ListGraphType<WasteType>>(
+            "wastebyconsid",
+            arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Cons_Id" }),
+            resolve: context =>
+            {
+                var Cons_Id = context.GetArgument<int>("Cons_Id");
+                return wasterepo.GetWastebyconsid(Cons_Id);
+            }
+           );
+
+
+
+        }
+
+    }
+}

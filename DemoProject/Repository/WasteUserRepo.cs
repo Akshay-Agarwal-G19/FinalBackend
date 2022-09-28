@@ -30,6 +30,16 @@ namespace DemoProject.Repository
             return _dbContext.WasteUsers.Where(i => i.Email == Email);
         }
 
+        public IEnumerable<WasteUser> GetConsumers()
+        {
+            return _dbContext.WasteUsers.Where(i => i.Type == "Consumer");
+        }
+
+        public IEnumerable<WasteUser> GetProducers()
+        {
+            return _dbContext.WasteUsers.Where(i => i.Type == "Producer");
+        }
+
         public WasteUser Addwasteuser(WasteUser wasteuser)
         {
             _dbContext.WasteUsers.Add(wasteuser);

@@ -41,6 +41,11 @@ namespace DemoProject.Repository
             return _dbContext.Wastes.Where(i => i.Cons_Id == consid);
         }
 
+        public IEnumerable<Waste> GetWastebyprodidenergy(int prodid)
+        {
+            return _dbContext.Wastes.Where(i => i.Cons_Id == prodid && i.Energy>0);
+        }
+
         public int GetProdIdbyid(Waste waste)
         {
             Waste findwaste = _dbContext.Wastes.Find(waste.Waste_Id);

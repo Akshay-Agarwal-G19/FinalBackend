@@ -19,6 +19,16 @@ namespace DemoProject.Data.GraphQL
                 );
 
             Field<ListGraphType<WasteUserType>>(
+                "producers",
+                resolve: context => wasteuserrepo.GetProducers()
+                );
+
+            Field<ListGraphType<WasteUserType>>(
+                "consumers",
+                resolve: context => wasteuserrepo.GetConsumers()
+                );
+
+            Field<ListGraphType<WasteUserType>>(
                "wasteuserbyid",
                arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Id" }),
                resolve: context =>
@@ -83,6 +93,15 @@ namespace DemoProject.Data.GraphQL
             }
            );
 
+            Field<ListGraphType<WasteType>>(
+            "wastebyprodidenergy",
+            arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Prod_Id" }),
+            resolve: context =>
+            {
+                var Prod_Id = context.GetArgument<int>("Prod_Id");
+                return wasterepo.GetWastebyprodidenergy(Prod_Id);
+            }
+           );
 
 
         }

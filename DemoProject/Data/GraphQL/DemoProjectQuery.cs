@@ -163,6 +163,25 @@ namespace DemoProject.Data.GraphQL
               }
              );
 
+            Field<ListGraphType<WasteType>>(
+              "lastwastebyprodenn",
+              arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Prod_Id" }),
+              resolve: context =>
+              {
+                  var Prod_Id = context.GetArgument<int>("Prod_Id");
+                  return wasterepo.Getlastwastebyprodenn(Prod_Id);
+              }
+             );
+
+            Field<ListGraphType<WasteType>>(
+             "lastwastebyconsenn",
+             arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Cons_Id" }),
+             resolve: context =>
+             {
+                 var Cons_Id = context.GetArgument<int>("Cons_Id");
+                 return wasterepo.Getlastwastebyconsenn(Cons_Id);
+             }
+            );
 
         }
 

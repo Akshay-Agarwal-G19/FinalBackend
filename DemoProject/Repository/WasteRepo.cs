@@ -137,9 +137,9 @@ namespace DemoProject.Repository
         {
             var pq = _dbContext.Wastes.Where(i => i.Prod_Id == prodid);
 
-            var eq = (from waste in pq
+            var eq = from waste in pq
                      orderby waste.Waste_Id descending
-                     select waste).Take(7);
+                     select waste;
             return eq;
         }
 
@@ -147,11 +147,34 @@ namespace DemoProject.Repository
         {
             var pq = _dbContext.Wastes.Where(i => i.Cons_Id == consid);
 
-            var eq = (from waste in pq
+            var eq = from waste in pq
                       orderby waste.Waste_Id descending
-                      select waste).Take(7);
+                      select waste;
             return eq;
         }
+
+        public IEnumerable<Waste> Getlastwastebyprodenn(int prodid)
+        {
+            var pq = _dbContext.Wastes.Where(i => i.Prod_Id == prodid);
+
+            var eq = from waste in pq
+                      orderby waste.Waste_Id descending
+                     where waste.Energy>0
+                      select waste;
+            return eq;
+        }
+
+        public IEnumerable<Waste> Getlastwastebyconsenn(int consid)
+        {
+            var pq = _dbContext.Wastes.Where(i => i.Cons_Id == consid);
+
+            var eq = from waste in pq
+                      orderby waste.Waste_Id descending
+                      where waste.Energy > 0
+                      select waste;
+            return eq;
+        }
+
     }
 }
   

@@ -103,6 +103,66 @@ namespace DemoProject.Data.GraphQL
             }
            );
 
+            Field<ListGraphType<WasteType>>(
+              "wastebyprodidenergysorted",
+              arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Prod_Id" }),
+              resolve: context =>
+              {
+                  var Prod_Id = context.GetArgument<int>("Prod_Id");
+                  return wasterepo.Getorderedbyenergy(Prod_Id);
+              }
+             );
+
+            Field<ListGraphType<WasteType>>(
+              "wastebyconsidenergysorted",
+              arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Cons_Id" }),
+              resolve: context =>
+              {
+                  var Cons_Id = context.GetArgument<int>("Cons_Id");
+                  return wasterepo.Getorderedbyenergyc(Cons_Id);
+              }
+             );
+
+            Field<ListGraphType<WasteType>>(
+              "wastebyprodidquantitysorted",
+              arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Prod_Id" }),
+              resolve: context =>
+              {
+                  var Prod_Id = context.GetArgument<int>("Prod_Id");
+                  return wasterepo.Getorderedbyquantity(Prod_Id);
+              }
+             );
+
+            Field<ListGraphType<WasteType>>(
+              "wastebyconsidquantitysorted",
+              arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Cons_Id" }),
+              resolve: context =>
+              {
+                  var Cons_Id = context.GetArgument<int>("Cons_Id");
+                  return wasterepo.Getorderedbyquantityc(Cons_Id);
+              }
+             );
+
+            Field<ListGraphType<WasteType>>(
+              "lastwastebyprod",
+              arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Prod_Id" }),
+              resolve: context =>
+              {
+                  var Prod_Id = context.GetArgument<int>("Prod_Id");
+                  return wasterepo.Getlastwastebyprod(Prod_Id);
+              }
+             );
+
+            Field<ListGraphType<WasteType>>(
+              "lastwastebycons",
+              arguments: new QueryArguments(new QueryArgument<NonNullGraphType<IntGraphType>> { Name = "Cons_Id" }),
+              resolve: context =>
+              {
+                  var Cons_Id = context.GetArgument<int>("Cons_Id");
+                  return wasterepo.Getlastwastebycons(Cons_Id);
+              }
+             );
+
 
         }
 

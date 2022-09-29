@@ -27,7 +27,7 @@ namespace DemoProject.Data.Entities
         public string Month { get; set; }
 
         [StringLength(100)]
-        public string Status { get; set; }
+        public string Status { get; set; } = "Pending";
 
         public int Energy { get; set; }
         

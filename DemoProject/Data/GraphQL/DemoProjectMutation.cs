@@ -119,7 +119,7 @@ namespace DemoProject.Data.GraphQL
                 resolve: context =>
                 {
                     var waste = context.GetArgument<Waste>("waste");
-                    return wasterepo.Updateenergy(waste);
+                    return wasterepo.Updateconsid(waste);
                 });
 
             Field<IntGraphType>(

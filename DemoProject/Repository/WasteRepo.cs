@@ -87,9 +87,70 @@ namespace DemoProject.Repository
             if (existingWaste != null)
             {
                 existingWaste.Cons_Id = waste.Cons_Id;
+                existingWaste.Status = waste.Status;
             }
             _dbContext.SaveChanges();
             return waste;
+        }
+
+        public IEnumerable<Waste> Getorderedbyenergy(int prodid)
+        {
+            var pq= _dbContext.Wastes.Where(i => i.Prod_Id == prodid);
+
+            var eq = (from waste in pq
+                      orderby waste.Energy descending
+                      select waste).Take(5);
+            return eq;
+        }
+
+        public IEnumerable<Waste> Getorderedbyenergyc(int consid)
+        {
+            var pq = _dbContext.Wastes.Where(i => i.Cons_Id == consid);
+
+            var eq = (from waste in pq
+                      orderby waste.Energy descending
+                      select waste).Take(5);
+            return eq;
+        }
+
+        public IEnumerable<Waste> Getorderedbyquantity(int prodid)
+        {
+            var pq = _dbContext.Wastes.Where(i => i.Prod_Id == prodid);
+
+            var eq = from waste in pq
+                      orderby waste.Quantity descending
+                      select waste;
+            return eq;
+        }
+
+        public IEnumerable<Waste> Getorderedbyquantityc(int consid)
+        {
+            var pq = _dbContext.Wastes.Where(i => i.Cons_Id == consid);
+
+            var eq = from waste in pq
+                      orderby waste.Quantity descending
+                      select waste;
+            return eq;
+        }
+
+        public IEnumerable<Waste> Getlastwastebyprod(int prodid)
+        {
+            var pq = _dbContext.Wastes.Where(i => i.Prod_Id == prodid);
+
+            var eq = (from waste in pq
+                     orderby waste.Waste_Id descending
+                     select waste).Take(7);
+            return eq;
+        }
+
+        public IEnumerable<Waste> Getlastwastebycons(int consid)
+        {
+            var pq = _dbContext.Wastes.Where(i => i.Cons_Id == consid);
+
+            var eq = (from waste in pq
+                      orderby waste.Waste_Id descending
+                      select waste).Take(7);
+            return eq;
         }
     }
 }
